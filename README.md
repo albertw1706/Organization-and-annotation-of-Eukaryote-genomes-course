@@ -5,3 +5,10 @@ This GitHub repository is designated for the project that is a part of the Organ
 
 ## Dataset Description
 The dataset utilized for this project was obtained from Lian et al. (2024). The SRA accession for the **Nov-02** DNA sequencing reads is **ERR11437321**, which originates from the Asia region specifically Southern Russia near the border with Kazakhstan.
+
+## Repository Structure 
+- **scripts/**  
+  SLURM and R scripts to execute analysis (ordered by script number)
+    
+- **plots/**  
+  Output plots that were present in the report
